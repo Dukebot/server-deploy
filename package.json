@@ -1,0 +1,23 @@
+{
+  "name": "server-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dukebot/server-deploy.git"
+  },
+  "author": "daniel ferrer gallegos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dukebot/server-deploy/issues"
+  },
+  "homepage": "https://github.com/Dukebot/server-deploy#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-ssh": "^13.0.0"
+  }
+}
